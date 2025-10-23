@@ -386,8 +386,6 @@ with T3:
         mime="text/csv",
     )
 
-st.caption(
-    "Metodologia: PV = Sc × BH × (fp × R) (Mód. II). BH pelo CUB×fator de adequação (Mód. I, Tabela 8). IC (Mód. I, Anexo II). Fator K (Anexo VII).
-"
+st.caption("Metodologia: PV = Sc × BH × (fp × R) (Mód. II). BH pelo CUB×fator de adequação (Mód. I, Tabela 8). IC (Mód. I, Anexo II). Fator K (Anexo VII)."
     "A aderência completa requer o uso integral das tabelas do CAU/BR. Personalize as tipologias e parâmetros."
 )
